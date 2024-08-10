@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="small_padding">4dp</dimen>
+    <dimen name="medium_padding">8dp</dimen>
+    <dimen name="large_padding">12dp</dimen>
+    <dimen name="extra_large_padding">16dp</dimen>
+
+    <dimen name="small_corner_radius">8dp</dimen>
+
+    <dimen name="top_app_bar_elevation">8dp</dimen>
+    <dimen name="card_elevation">2dp</dimen>
+
+    <dimen name="icon_size_36">36dp</dimen>
+    <dimen name="icon_size_40">40dp</dimen>
+    <dimen name="circle_icon_size">24dp</dimen>
+    <dimen name="image_size">150dp</dimen>
+</resources>

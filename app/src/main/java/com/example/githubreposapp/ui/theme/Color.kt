@@ -1,0 +1,28 @@
+package com.example.githubreposapp.ui.theme
+import androidx.compose.ui.graphics.Color
+
+val primaryLight = Color(0xFF202E86)
+val onPrimaryLight = Color(0xFFFFFFFF)
+val secondaryLight = Color(0xFF5B5D72)
+val onSecondaryLight = Color(0xFFFFFFFF)
+val tertiaryLight = Color(0xFF519F6A)
+val onTertiaryLight = Color(0xFFFFFFFF)
+val errorLight = Color(0xFFBA1A1A)
+val onErrorLight = Color(0xFFFFFFFF)
+val backgroundLight = Color(0xFFEBEBEB)
+val onBackgroundLight = Color(0xFF1B1B21)
+val surfaceLight = Color(0xFFFFFFFF)
+val onSurfaceLight = Color(0xFF000000)
+
+val primaryDark = Color(0xFFBBC3FF)
+val onPrimaryDark = Color(0xFF232C61)
+val secondaryDark = Color(0xFFC4C5DD)
+val onSecondaryDark = Color(0xFF2D2F42)
+val tertiaryDark = Color(0xFF36B960)
+val onTertiaryDark = Color(0xFFFFFFFF)
+val errorDark = Color(0xFFFFB4AB)
+val onErrorDark = Color(0xFF690005)
+val backgroundDark = Color(0xFF131318)
+val onBackgroundDark = Color(0xFFE4E1E9)
+val surfaceDark = Color(0xFF131318)
+val onSurfaceDark = Color(0xFFE4E1E9)
