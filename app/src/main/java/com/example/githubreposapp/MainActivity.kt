@@ -32,7 +32,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContent {
-            GithubReposAppTheme(dynamicColor = false) {
+            GithubReposAppTheme {
                 RepoApp()
             }
         }
